@@ -14,4 +14,11 @@
 - [x] CSS
   - [x] CSS の文法
   - [x] CSS セレクター
-  - [x] CSS によるレイアウトの作り方 
+  - [x] CSS によるレイアウトの作り方
+- [ ] JavaScript
+  - [ ] JavaScript の文法 (参考: [JavaScript Primer > 基本文法](https://jsprimer.net/basic/))
+    - [ ] JavaScript による単純な計算 (FizzBuzz などの実装)
+    - [ ] JavaScript の非同期処理
+    - [ ] JavaScript のモジュールの文法
+  - [ ] JavaScript による DOM 操作
+  - [ ] JavaScript による XHR と fetch
