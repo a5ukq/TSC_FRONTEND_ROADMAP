@@ -25,9 +25,9 @@
 
 ### 2025 3Q
 
-- [ ] JavaScript
+- [x] JavaScript
   - [x] JavaScript の文法 (参考: [JavaScript Primer > 基本文法](https://jsprimer.net/basic/))
     - [x] JavaScript の非同期処理
     - [x] JavaScript のモジュールの文法
-  - [ ] JavaScript による DOM 操作
-  - [ ] JavaScript による XHR と fetch
+  - [x] JavaScript による DOM 操作
+  - [x] JavaScript による XHR と fetch
