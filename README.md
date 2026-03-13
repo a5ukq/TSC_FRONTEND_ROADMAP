@@ -10,6 +10,14 @@
 
 - インターネット
 - JavaScript による単純な計算（FizzBuzz などの実装）
+- Git
+- パッケージマネージャー
+- ビルドツール
+- テスト
+- 型チェック
+- 開発環境
+- OpenAIの存在
+- ブラウザの開発者ツールができることと基本的な使い方
 
 ## 予定
 
@@ -31,3 +39,19 @@
     - [x] JavaScript のモジュールの文法
   - [x] JavaScript による DOM 操作
   - [x] JavaScript による XHR と fetch
+
+### 2025 4Q
+
+- [x] セキュリティー
+  - [x] XSS と CSRF の攻撃手法
+  - [x] オリジン間リソース共有 (CORS) の仕組み
+  - [x] コンテンツセキュリティポリシー (CSP) の仕組み
+
+- [ ] フレームワーク
+  - [ ] React (参考: React > Docs)
+    - [ ] JSX と React の仕組み (キーワード: 仮想 DOM)
+  - [ ] React の使い方
+  - [ ] Next.js の存在
+
+- [ ] モダン CSS
+  - [ ] CSS Modules と Sass と CSS in JS の仕組み
